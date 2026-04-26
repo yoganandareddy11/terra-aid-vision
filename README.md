@@ -1,3 +1,1 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+https://preview--terra-aid-vision.lovable.app/
